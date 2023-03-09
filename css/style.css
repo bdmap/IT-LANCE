@@ -1720,6 +1720,10 @@ body {
     top: 16px;
     right: 6px;
   }
+  .question__item .active{
+     top: 16px;
+     right: 6px;
+  } 
 }
 
 .service {
