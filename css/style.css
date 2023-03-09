@@ -1720,7 +1720,7 @@ body {
     top: 16px;
     right: 6px;
   }
-  .question__item .active{
+  .question__item .active::after{
      top: 16px;
      right: 6px;
   } 
